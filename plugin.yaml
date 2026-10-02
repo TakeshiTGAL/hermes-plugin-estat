@@ -2,7 +2,7 @@ name: jp-estat
 version: 0.1.0
 requires_hermes: ">=0.18"
 description: >-
-  Unofficial plugin for e-Stat, Japan's official government statistics portal
+  Japanese government statistics for Hermes Agent, built on the e-Stat API
   (population, households, establishments by industry, wages, consumer prices).
   Search tables, see their categories, and fetch numbers by name, with units,
   survey dates and citations.

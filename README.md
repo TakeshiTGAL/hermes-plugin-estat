@@ -1,6 +1,6 @@
-# jp-estat (e-Stat 政府統計) for Hermes Agent
+# jp-estat: Japanese government statistics for Hermes Agent
 
-Japan's official government statistics in [Hermes Agent](https://hermes-agent.nousresearch.com), from **e-Stat** (政府統計の総合窓口), the portal run by the Statistics Bureau of Japan and the National Statistics Center. Ask in plain words; the agent finds the right table, picks the right rows by name, and answers with the unit, the survey date and a citation you can paste into a report.
+Japan's official government statistics in [Hermes Agent](https://hermes-agent.nousresearch.com), built on the API of **e-Stat** (政府統計の総合窓口), the portal run by the Statistics Bureau of Japan and the National Statistics Center. Ask in plain words; the agent finds the right table, picks the right rows by name, and answers with the unit, the survey date and a citation you can paste into a report.
 
 ```
 You:    What was Tokyo's population in the 2020 census, and Japan's?
@@ -91,11 +91,9 @@ Official guide: <https://www.e-stat.go.jp/api/api-info/api-guide>.
 
 このサービスは、政府統計総合窓口(e-Stat)のAPI機能を使用していますが、サービスの内容は国によって保証されたものではありません。
 
-*(Unofficial translation: this service uses the e-Stat API, but its content is not guaranteed by the government of Japan.)*
+*(e-Stat's English credit text: "This service uses API functions from e-Stat, however its contents are not guaranteed by government.")*
 
 e-Stat asks every service built on its API to show the sentence above ([credit rule](https://www.e-stat.go.jp/api/api-info/credit)); the plugin also returns it with every data reply. Figures from e-Stat may be reused, including commercially, as long as the source is cited ([e-Stat terms](https://www.e-stat.go.jp/terms-of-use), compatible with CC BY 4.0). Each reply therefore carries a ready-made `citation` (出典：政府統計の総合窓口(e-Stat)…). When you rework the numbers (sums, ratios, charts), the terms ask you to say so separately: add the `citation_if_edited` line as well as the citation. API use is governed by the [e-Stat API terms](https://www.e-stat.go.jp/api/terms-of-use): the application ID is yours and must not be shared, and heavy bursts of requests are not allowed.
-
-This plugin is an independent project. It is not made or endorsed by the Statistics Bureau of Japan, the National Statistics Center or Nous Research.
 
 ## Security and privacy
 
@@ -124,7 +122,7 @@ MIT
 
 ## 日本語
 
-e-Stat（政府統計の総合窓口）の統計を、Hermes Agent から言葉で引けるプラグインです。e-Stat は便利ですが、目当ての統計表と分類コードにたどり着くまでが迷路です。このプラグインは、表の検索、表の中身（地域・時点・分類）の確認、名前での数値の取得を3つのツールに分け、エージェントが2〜3回の呼び出しで数字と出典にたどり着けるようにします。
+e-Stat（政府統計の総合窓口）の API を活用して、政府統計を Hermes Agent から言葉で引けるようにしたプラグインです。e-Stat は便利ですが、目当ての統計表と分類コードにたどり着くまでが迷路です。このプラグインは、表の検索、表の中身（地域・時点・分類）の確認、名前での数値の取得を3つのツールに分け、エージェントが2〜3回の呼び出しで数字と出典にたどり着けるようにします。
 
 ### こんなときに
 
@@ -163,4 +161,4 @@ e-Stat（政府統計の総合窓口）の統計を、Hermes Agent から言葉�
 
 このサービスは、政府統計総合窓口(e-Stat)のAPI機能を使用していますが、サービスの内容は国によって保証されたものではありません。
 
-数字を使うときは、返答に入っている `citation`（出典：政府統計の総合窓口(e-Stat)…）をそのまま載せてください。数字を合計・割合・グラフなどに加工して使う場合は、出典とは別に加工したことを書く決まりなので、`citation` に加えて `citation_if_edited` の一文も載せます（[e-Stat 利用規約](https://www.e-stat.go.jp/terms-of-use)）。返答に `warnings` があるときは、その内容も読み手に伝えてください。このプラグインは個人の開発物で、総務省統計局・独立行政法人統計センターとは関係がありません。
+数字を使うときは、返答に入っている `citation`（出典：政府統計の総合窓口(e-Stat)…）をそのまま載せてください。数字を合計・割合・グラフなどに加工して使う場合は、出典とは別に加工したことを書く決まりなので、`citation` に加えて `citation_if_edited` の一文も載せます（[e-Stat 利用規約](https://www.e-stat.go.jp/terms-of-use)）。返答に `warnings` があるときは、その内容も読み手に伝えてください。
