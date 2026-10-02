@@ -1,0 +1,27 @@
+name: jp-estat
+version: 0.1.0
+requires_hermes: ">=0.18"
+description: >-
+  Unofficial plugin for e-Stat, Japan's official government statistics portal
+  (population, households, establishments by industry, wages, consumer prices).
+  Search tables, see their categories, and fetch numbers by name, with units,
+  survey dates and citations.
+author: TakeshiTGAL
+license: MIT
+homepage: https://github.com/TakeshiTGAL/hermes-plugin-estat
+tags: [statistics, japan, government-data, e-stat, research]
+
+provides_tools:
+  - estat_search_tables
+  - estat_table_info
+  - estat_get_data
+
+requires_env:
+  - name: ESTAT_APP_ID
+    description: >-
+      e-Stat API application ID (free). Register at
+      https://www.e-stat.go.jp/mypage/user/preregister, then log in and open
+      My Page -> API機能（アプリケーションID発行）. For the URL field,
+      http://test.localhost/ is accepted for non-public use.
+    url: https://www.e-stat.go.jp/api/api-info/api-guide
+    secret: true

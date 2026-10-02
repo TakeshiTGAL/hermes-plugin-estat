@@ -1,0 +1,1586 @@
+{
+ "GET_STATS_LIST": {
+  "RESULT": {
+   "STATUS": 0,
+   "ERROR_MSG": "正常に終了しました。",
+   "DATE": "2026-10-02T21:42:04.400+09:00"
+  },
+  "PARAMETER": {
+   "LANG": "J",
+   "SURVEY_YEARS": 2020,
+   "STATS_CODE": "00200521",
+   "SEARCH_WORD": "男女別人口",
+   "EXPLANATION_GET_FLG": "N",
+   "DATA_FORMAT": "J",
+   "LIMIT": 40
+  },
+  "DATALIST_INF": {
+   "NUMBER": 55,
+   "RESULT_INF": {
+    "FROM_NUMBER": 1,
+    "TO_NUMBER": 40,
+    "NEXT_KEY": 41
+   },
+   "TABLE_INF": [
+    {
+     "@id": "0003433219",
+     "STAT_NAME": {
+      "@code": "00200521",
+      "$": "国勢調査"
+     },
+     "GOV_ORG": {
+      "@code": "00200",
+      "$": "総務省"
+     },
+     "STATISTICS_NAME": "令和２年国勢調査 速報集計 人口速報集計　（男女別人口及び世帯総数）",
+     "TITLE": {
+      "@no": "1-1",
+      "$": "男女別人口－全国，都道府県，市区町村"
+     },
+     "CYCLE": "-",
+     "SURVEY_DATE": 202010,
+     "OPEN_DATE": "2021-06-25",
+     "SMALL_AREA": 0,
+     "COLLECT_AREA": "全国",
+     "MAIN_CATEGORY": {
+      "@code": "02",
+      "$": "人口・世帯"
+     },
+     "SUB_CATEGORY": {
+      "@code": "01",
+      "$": "人口"
+     },
+     "OVERALL_TOTAL_NUMBER": 5895,
+     "UPDATED_DATE": "2026-09-29",
+     "STATISTICS_NAME_SPEC": {
+      "TABULATION_CATEGORY": "令和２年国勢調査",
+      "TABULATION_SUB_CATEGORY1": "速報集計",
+      "TABULATION_SUB_CATEGORY2": "人口速報集計　（男女別人口及び世帯総数）"
+     },
+     "TITLE_SPEC": {
+      "TABLE_NAME": "男女別人口－全国，都道府県，市区町村"
+     }
+    },
+    {
+     "@id": "0003433219",
+     "STAT_NAME": {
+      "@code": "00200521",
+      "$": "国勢調査"
+     },
+     "GOV_ORG": {
+      "@code": "00200",
+      "$": "総務省"
+     },
+     "STATISTICS_NAME": "令和２年国勢調査 速報集計 人口速報集計　（男女別人口及び世帯総数）",
+     "TITLE": {
+      "@no": "1-1",
+      "$": "男女別人口－全国，都道府県，市区町村"
+     },
+     "CYCLE": "-",
+     "SURVEY_DATE": 202010,
+     "OPEN_DATE": "2021-06-25",
+     "SMALL_AREA": 0,
+     "COLLECT_AREA": "市区町村",
+     "MAIN_CATEGORY": {
+      "@code": "02",
+      "$": "人口・世帯"
+     },
+     "SUB_CATEGORY": {
+      "@code": "01",
+      "$": "人口"
+     },
+     "OVERALL_TOTAL_NUMBER": 5895,
+     "UPDATED_DATE": "2026-09-29",
+     "STATISTICS_NAME_SPEC": {
+      "TABULATION_CATEGORY": "令和２年国勢調査",
+      "TABULATION_SUB_CATEGORY1": "速報集計",
+      "TABULATION_SUB_CATEGORY2": "人口速報集計　（男女別人口及び世帯総数）"
+     },
+     "TITLE_SPEC": {
+      "TABLE_NAME": "男女別人口－全国，都道府県，市区町村"
+     }
+    },
+    {
+     "@id": "0003433219",
+     "STAT_NAME": {
+      "@code": "00200521",
+      "$": "国勢調査"
+     },
+     "GOV_ORG": {
+      "@code": "00200",
+      "$": "総務省"
+     },
+     "STATISTICS_NAME": "令和２年国勢調査 速報集計 人口速報集計　（男女別人口及び世帯総数）",
+     "TITLE": {
+      "@no": "1-1",
+      "$": "男女別人口－全国，都道府県，市区町村"
+     },
+     "CYCLE": "-",
+     "SURVEY_DATE": 202010,
+     "OPEN_DATE": "2021-06-25",
+     "SMALL_AREA": 0,
+     "COLLECT_AREA": "都道府県",
+     "MAIN_CATEGORY": {
+      "@code": "02",
+      "$": "人口・世帯"
+     },
+     "SUB_CATEGORY": {
+      "@code": "01",
+      "$": "人口"
+     },
+     "OVERALL_TOTAL_NUMBER": 5895,
+     "UPDATED_DATE": "2026-09-29",
+     "STATISTICS_NAME_SPEC": {
+      "TABULATION_CATEGORY": "令和２年国勢調査",
+      "TABULATION_SUB_CATEGORY1": "速報集計",
+      "TABULATION_SUB_CATEGORY2": "人口速報集計　（男女別人口及び世帯総数）"
+     },
+     "TITLE_SPEC": {
+      "TABLE_NAME": "男女別人口－全国，都道府県，市区町村"
+     }
+    },
+    {
+     "@id": "0003410379",
+     "STAT_NAME": {
+      "@code": "00200521",
+      "$": "国勢調査"
+     },
+     "GOV_ORG": {
+      "@code": "00200",
+      "$": "総務省"
+     },
+     "STATISTICS_NAME": "時系列データ 男女，年齢，配偶関係",
+     "TITLE": {
+      "@no": "1",
+      "$": "男女別人口及び人口性比 － 全国，都道府県（大正9年～令和2年）"
+     },
+     "CYCLE": "-",
+     "SURVEY_DATE": "202001-202012",
+     "OPEN_DATE": "2022-03-31",
+     "SMALL_AREA": 0,
+     "COLLECT_AREA": "該当なし",
+     "MAIN_CATEGORY": {
+      "@code": "02",
+      "$": "人口・世帯"
+     },
+     "SUB_CATEGORY": {
+      "@code": "01",
+      "$": "人口"
+     },
+     "OVERALL_TOTAL_NUMBER": 4200,
+     "UPDATED_DATE": "2026-09-29",
+     "STATISTICS_NAME_SPEC": {
+      "TABULATION_CATEGORY": "時系列データ",
+      "TABULATION_SUB_CATEGORY1": "男女，年齢，配偶関係"
+     },
+     "TITLE_SPEC": {
+      "TABLE_NAME": "男女別人口及び人口性比 － 全国，都道府県（大正9年～令和2年）"
+     }
+    },
+    {
+     "@id": "0003410380",
+     "STAT_NAME": {
+      "@code": "00200521",
+      "$": "国勢調査"
+     },
+     "GOV_ORG": {
+      "@code": "00200",
+      "$": "総務省"
+     },
+     "STATISTICS_NAME": "時系列データ 男女，年齢，配偶関係",
+     "TITLE": {
+      "@no": "2",
+      "$": "年齢（5歳階級），男女別人口及び人口性比 － 全国（大正9年～令和2年）"
+     },
+     "CYCLE": "-",
+     "SURVEY_DATE": "202001-202012",
+     "OPEN_DATE": "2022-03-31",
+     "SMALL_AREA": 0,
+     "COLLECT_AREA": "該当なし",
+     "MAIN_CATEGORY": {
+      "@code": "02",
+      "$": "人口・世帯"
+     },
+     "SUB_CATEGORY": {
+      "@code": "01",
+      "$": "人口"
+     },
+     "OVERALL_TOTAL_NUMBER": 3752,
+     "UPDATED_DATE": "2026-09-29",
+     "STATISTICS_NAME_SPEC": {
+      "TABULATION_CATEGORY": "時系列データ",
+      "TABULATION_SUB_CATEGORY1": "男女，年齢，配偶関係"
+     },
+     "TITLE_SPEC": {
+      "TABLE_NAME": "年齢（5歳階級），男女別人口及び人口性比 － 全国（大正9年～令和2年）"
+     }
+    },
+    {
+     "@id": "0003410381",
+     "STAT_NAME": {
+      "@code": "00200521",
+      "$": "国勢調査"
+     },
+     "GOV_ORG": {
+      "@code": "00200",
+      "$": "総務省"
+     },
+     "STATISTICS_NAME": "時系列データ 男女，年齢，配偶関係",
+     "TITLE": {
+      "@no": "3",
+      "$": "年齢（5歳階級），男女別人口及び人口性比 － 都道府県（大正9年～令和2年）"
+     },
+     "CYCLE": "-",
+     "SURVEY_DATE": "202001-202012",
+     "OPEN_DATE": "2022-03-31",
+     "SMALL_AREA": 0,
+     "COLLECT_AREA": "該当なし",
+     "MAIN_CATEGORY": {
+      "@code": "02",
+      "$": "人口・世帯"
+     },
+     "SUB_CATEGORY": {
+      "@code": "01",
+      "$": "人口"
+     },
+     "OVERALL_TOTAL_NUMBER": 166474,
+     "UPDATED_DATE": "2026-09-29",
+     "STATISTICS_NAME_SPEC": {
+      "TABULATION_CATEGORY": "時系列データ",
+      "TABULATION_SUB_CATEGORY1": "男女，年齢，配偶関係"
+     },
+     "TITLE_SPEC": {
+      "TABLE_NAME": "年齢（5歳階級），男女別人口及び人口性比 － 都道府県（大正9年～令和2年）"
+     }
+    },
+    {
+     "@id": "0003448299",
+     "STAT_NAME": {
+      "@code": "00200521",
+      "$": "国勢調査"
+     },
+     "GOV_ORG": {
+      "@code": "00200",
+      "$": "総務省"
+     },
+     "STATISTICS_NAME": "時系列データ 男女，年齢，配偶関係",
+     "TITLE": {
+      "@no": "6-2020",
+      "$": "年齢（3区分），男女別人口及び年齢別割合 － 都道府県，市区町村（令和2年）　北海道　～　沖縄県"
+     },
+     "CYCLE": "-",
+     "SURVEY_DATE": "202001-202012",
+     "OPEN_DATE": "2022-03-31",
+     "SMALL_AREA": 0,
+     "COLLECT_AREA": "該当なし",
+     "MAIN_CATEGORY": {
+      "@code": "02",
+      "$": "人口・世帯"
+     },
+     "SUB_CATEGORY": {
+      "@code": "01",
+      "$": "人口"
+     },
+     "OVERALL_TOTAL_NUMBER": 41244,
+     "UPDATED_DATE": "2026-09-29",
+     "STATISTICS_NAME_SPEC": {
+      "TABULATION_CATEGORY": "時系列データ",
+      "TABULATION_SUB_CATEGORY1": "男女，年齢，配偶関係"
+     },
+     "TITLE_SPEC": {
+      "TABLE_NAME": "年齢（3区分），男女別人口及び年齢別割合 － 都道府県，市区町村（令和2年）　北海道　～　沖縄県"
+     }
+    },
+    {
+     "@id": "0003448301",
+     "STAT_NAME": {
+      "@code": "00200521",
+      "$": "国勢調査"
+     },
+     "GOV_ORG": {
+      "@code": "00200",
+      "$": "総務省"
+     },
+     "STATISTICS_NAME": "時系列データ 男女，年齢，配偶関係",
+     "TITLE": {
+      "@no": "6-2020I",
+      "$": "【不詳補完値】年齢（3区分），男女別人口及び年齢別割合 － 都道府県，市区町村（令和2年）　北海道　～　沖縄県"
+     },
+     "CYCLE": "-",
+     "SURVEY_DATE": "202001-202012",
+     "OPEN_DATE": "2022-03-31",
+     "SMALL_AREA": 0,
+     "COLLECT_AREA": "該当なし",
+     "MAIN_CATEGORY": {
+      "@code": "02",
+      "$": "人口・世帯"
+     },
+     "SUB_CATEGORY": {
+      "@code": "01",
+      "$": "人口"
+     },
+     "OVERALL_TOTAL_NUMBER": 41244,
+     "UPDATED_DATE": "2026-09-29",
+     "STATISTICS_NAME_SPEC": {
+      "TABULATION_CATEGORY": "時系列データ",
+      "TABULATION_SUB_CATEGORY1": "男女，年齢，配偶関係"
+     },
+     "TITLE_SPEC": {
+      "TABLE_NAME": "【不詳補完値】年齢（3区分），男女別人口及び年齢別割合 － 都道府県，市区町村（令和2年）　北海道　～　沖縄県"
+     }
+    },
+    {
+     "@id": "0003412175",
+     "STAT_NAME": {
+      "@code": "00200521",
+      "$": "国勢調査"
+     },
+     "GOV_ORG": {
+      "@code": "00200",
+      "$": "総務省"
+     },
+     "STATISTICS_NAME": "時系列データ 人口の労働力状態，就業者の産業・職業",
+     "TITLE": {
+      "@no": "1",
+      "$": "労働力状態（3区分），男女別人口及び労働力率（15歳以上） － 全国（昭和25年～令和2年）"
+     },
+     "CYCLE": "-",
+     "SURVEY_DATE": "202001-202012",
+     "OPEN_DATE": "2023-12-01",
+     "SMALL_AREA": 0,
+     "COLLECT_AREA": "該当なし",
+     "MAIN_CATEGORY": {
+      "@code": "02",
+      "$": "人口・世帯"
+     },
+     "SUB_CATEGORY": {
+      "@code": "01",
+      "$": "人口"
+     },
+     "OVERALL_TOTAL_NUMBER": 306,
+     "UPDATED_DATE": "2026-09-29",
+     "STATISTICS_NAME_SPEC": {
+      "TABULATION_CATEGORY": "時系列データ",
+      "TABULATION_SUB_CATEGORY1": "人口の労働力状態，就業者の産業・職業"
+     },
+     "TITLE_SPEC": {
+      "TABLE_NAME": "労働力状態（3区分），男女別人口及び労働力率（15歳以上） － 全国（昭和25年～令和2年）"
+     }
+    },
+    {
+     "@id": "0003412176",
+     "STAT_NAME": {
+      "@code": "00200521",
+      "$": "国勢調査"
+     },
+     "GOV_ORG": {
+      "@code": "00200",
+      "$": "総務省"
+     },
+     "STATISTICS_NAME": "時系列データ 人口の労働力状態，就業者の産業・職業",
+     "TITLE": {
+      "@no": "2",
+      "$": "労働力状態（3区分），男女別人口及び労働力率（15歳以上） － 都道府県（昭和25年～令和2年）"
+     },
+     "CYCLE": "-",
+     "SURVEY_DATE": "202001-202012",
+     "OPEN_DATE": "2023-12-01",
+     "SMALL_AREA": 0,
+     "COLLECT_AREA": "該当なし",
+     "MAIN_CATEGORY": {
+      "@code": "02",
+      "$": "人口・世帯"
+     },
+     "SUB_CATEGORY": {
+      "@code": "01",
+      "$": "人口"
+     },
+     "OVERALL_TOTAL_NUMBER": 14382,
+     "UPDATED_DATE": "2026-09-29",
+     "STATISTICS_NAME_SPEC": {
+      "TABULATION_CATEGORY": "時系列データ",
+      "TABULATION_SUB_CATEGORY1": "人口の労働力状態，就業者の産業・職業"
+     },
+     "TITLE_SPEC": {
+      "TABLE_NAME": "労働力状態（3区分），男女別人口及び労働力率（15歳以上） － 都道府県（昭和25年～令和2年）"
+     }
+    },
+    {
+     "@id": "0003410394",
+     "STAT_NAME": {
+      "@code": "00200521",
+      "$": "国勢調査"
+     },
+     "GOV_ORG": {
+      "@code": "00200",
+      "$": "総務省"
+     },
+     "STATISTICS_NAME": "時系列データ 人口の労働力状態，就業者の産業・職業",
+     "TITLE": {
+      "@no": "3",
+      "$": "労働力状態（8区分），年齢（5歳階級），男女別人口及び人口構成比［労働力状態別］（15歳以上） － 全国（昭和55年～令和2年）"
+     },
+     "CYCLE": "-",
+     "SURVEY_DATE": "202001-202012",
+     "OPEN_DATE": "2023-12-01",
+     "SMALL_AREA": 0,
+     "COLLECT_AREA": "該当なし",
+     "MAIN_CATEGORY": {
+      "@code": "02",
+      "$": "人口・世帯"
+     },
+     "SUB_CATEGORY": {
+      "@code": "01",
+      "$": "人口"
+     },
+     "OVERALL_TOTAL_NUMBER": 12903,
+     "UPDATED_DATE": "2026-09-29",
+     "STATISTICS_NAME_SPEC": {
+      "TABULATION_CATEGORY": "時系列データ",
+      "TABULATION_SUB_CATEGORY1": "人口の労働力状態，就業者の産業・職業"
+     },
+     "TITLE_SPEC": {
+      "TABLE_NAME": "労働力状態（8区分），年齢（5歳階級），男女別人口及び人口構成比［労働力状態別］（15歳以上） － 全国（昭和55年～令和2年）"
+     }
+    },
+    {
+     "@id": "0003433220",
+     "STAT_NAME": {
+      "@code": "00200521",
+      "$": "国勢調査"
+     },
+     "GOV_ORG": {
+      "@code": "00200",
+      "$": "総務省"
+     },
+     "STATISTICS_NAME": "令和２年国勢調査 速報集計 人口速報集計　（男女別人口及び世帯総数）",
+     "TITLE": {
+      "@no": "1-2",
+      "$": "2015年（平成27年）の人口（組替），世帯数，2015年（平成27年）の世帯数（組替），5年間の人口増減数，5年間の人口増減率，5年間の世帯増減数，5年間の世帯増減率，人口性比，面積（参考）及び人口密度－全国，都道府県，市区町村"
+     },
+     "CYCLE": "-",
+     "SURVEY_DATE": 202010,
+     "OPEN_DATE": "2021-06-25",
+     "SMALL_AREA": 0,
+     "COLLECT_AREA": "全国",
+     "MAIN_CATEGORY": {
+      "@code": "02",
+      "$": "人口・世帯"
+     },
+     "SUB_CATEGORY": {
+      "@code": "01",
+      "$": "人口"
+     },
+     "OVERALL_TOTAL_NUMBER": 19650,
+     "UPDATED_DATE": "2026-09-29",
+     "STATISTICS_NAME_SPEC": {
+      "TABULATION_CATEGORY": "令和２年国勢調査",
+      "TABULATION_SUB_CATEGORY1": "速報集計",
+      "TABULATION_SUB_CATEGORY2": "人口速報集計　（男女別人口及び世帯総数）"
+     },
+     "TITLE_SPEC": {
+      "TABLE_NAME": "2015年（平成27年）の人口（組替），世帯数，2015年（平成27年）の世帯数（組替），5年間の人口増減数，5年間の人口増減率，5年間の世帯増減数，5年間の世帯増減率，人口性比，面積（参考）及び人口密度－全国，都道府県，市区町村"
+     }
+    },
+    {
+     "@id": "0003433220",
+     "STAT_NAME": {
+      "@code": "00200521",
+      "$": "国勢調査"
+     },
+     "GOV_ORG": {
+      "@code": "00200",
+      "$": "総務省"
+     },
+     "STATISTICS_NAME": "令和２年国勢調査 速報集計 人口速報集計　（男女別人口及び世帯総数）",
+     "TITLE": {
+      "@no": "1-2",
+      "$": "2015年（平成27年）の人口（組替），世帯数，2015年（平成27年）の世帯数（組替），5年間の人口増減数，5年間の人口増減率，5年間の世帯増減数，5年間の世帯増減率，人口性比，面積（参考）及び人口密度－全国，都道府県，市区町村"
+     },
+     "CYCLE": "-",
+     "SURVEY_DATE": 202010,
+     "OPEN_DATE": "2021-06-25",
+     "SMALL_AREA": 0,
+     "COLLECT_AREA": "市区町村",
+     "MAIN_CATEGORY": {
+      "@code": "02",
+      "$": "人口・世帯"
+     },
+     "SUB_CATEGORY": {
+      "@code": "01",
+      "$": "人口"
+     },
+     "OVERALL_TOTAL_NUMBER": 19650,
+     "UPDATED_DATE": "2026-09-29",
+     "STATISTICS_NAME_SPEC": {
+      "TABULATION_CATEGORY": "令和２年国勢調査",
+      "TABULATION_SUB_CATEGORY1": "速報集計",
+      "TABULATION_SUB_CATEGORY2": "人口速報集計　（男女別人口及び世帯総数）"
+     },
+     "TITLE_SPEC": {
+      "TABLE_NAME": "2015年（平成27年）の人口（組替），世帯数，2015年（平成27年）の世帯数（組替），5年間の人口増減数，5年間の人口増減率，5年間の世帯増減数，5年間の世帯増減率，人口性比，面積（参考）及び人口密度－全国，都道府県，市区町村"
+     }
+    },
+    {
+     "@id": "0003433220",
+     "STAT_NAME": {
+      "@code": "00200521",
+      "$": "国勢調査"
+     },
+     "GOV_ORG": {
+      "@code": "00200",
+      "$": "総務省"
+     },
+     "STATISTICS_NAME": "令和２年国勢調査 速報集計 人口速報集計　（男女別人口及び世帯総数）",
+     "TITLE": {
+      "@no": "1-2",
+      "$": "2015年（平成27年）の人口（組替），世帯数，2015年（平成27年）の世帯数（組替），5年間の人口増減数，5年間の人口増減率，5年間の世帯増減数，5年間の世帯増減率，人口性比，面積（参考）及び人口密度－全国，都道府県，市区町村"
+     },
+     "CYCLE": "-",
+     "SURVEY_DATE": 202010,
+     "OPEN_DATE": "2021-06-25",
+     "SMALL_AREA": 0,
+     "COLLECT_AREA": "都道府県",
+     "MAIN_CATEGORY": {
+      "@code": "02",
+      "$": "人口・世帯"
+     },
+     "SUB_CATEGORY": {
+      "@code": "01",
+      "$": "人口"
+     },
+     "OVERALL_TOTAL_NUMBER": 19650,
+     "UPDATED_DATE": "2026-09-29",
+     "STATISTICS_NAME_SPEC": {
+      "TABULATION_CATEGORY": "令和２年国勢調査",
+      "TABULATION_SUB_CATEGORY1": "速報集計",
+      "TABULATION_SUB_CATEGORY2": "人口速報集計　（男女別人口及び世帯総数）"
+     },
+     "TITLE_SPEC": {
+      "TABLE_NAME": "2015年（平成27年）の人口（組替），世帯数，2015年（平成27年）の世帯数（組替），5年間の人口増減数，5年間の人口増減率，5年間の世帯増減数，5年間の世帯増減率，人口性比，面積（参考）及び人口密度－全国，都道府県，市区町村"
+     }
+    },
+    {
+     "@id": "0003445078",
+     "STAT_NAME": {
+      "@code": "00200521",
+      "$": "国勢調査"
+     },
+     "GOV_ORG": {
+      "@code": "00200",
+      "$": "総務省"
+     },
+     "STATISTICS_NAME": "令和２年国勢調査 人口等基本集計　（主な内容：男女・年齢・配偶関係，世帯の構成，住居の状態，母子・父子世帯，国籍など）",
+     "TITLE": {
+      "@no": "1-1-1",
+      "$": "総人口・総世帯数・男女・年齢・配偶関係 男女別人口－全国，都道府県，市区町村（2000年（平成12年）市区町村含む）"
+     },
+     "CYCLE": "-",
+     "SURVEY_DATE": 202010,
+     "OPEN_DATE": "2021-11-30",
+     "SMALL_AREA": 0,
+     "COLLECT_AREA": "全国",
+     "MAIN_CATEGORY": {
+      "@code": "02",
+      "$": "人口・世帯"
+     },
+     "SUB_CATEGORY": {
+      "@code": "01",
+      "$": "人口"
+     },
+     "OVERALL_TOTAL_NUMBER": 12258,
+     "UPDATED_DATE": "2026-09-29",
+     "STATISTICS_NAME_SPEC": {
+      "TABULATION_CATEGORY": "令和２年国勢調査",
+      "TABULATION_SUB_CATEGORY1": "人口等基本集計　（主な内容：男女・年齢・配偶関係，世帯の構成，住居の状態，母子・父子世帯，国籍など）"
+     },
+     "TITLE_SPEC": {
+      "TABLE_CATEGORY": "総人口・総世帯数・男女・年齢・配偶関係",
+      "TABLE_NAME": "男女別人口－全国，都道府県，市区町村（2000年（平成12年）市区町村含む）"
+     }
+    },
+    {
+     "@id": "0003445078",
+     "STAT_NAME": {
+      "@code": "00200521",
+      "$": "国勢調査"
+     },
+     "GOV_ORG": {
+      "@code": "00200",
+      "$": "総務省"
+     },
+     "STATISTICS_NAME": "令和２年国勢調査 人口等基本集計　（主な内容：男女・年齢・配偶関係，世帯の構成，住居の状態，母子・父子世帯，国籍など）",
+     "TITLE": {
+      "@no": "1-1-1",
+      "$": "総人口・総世帯数・男女・年齢・配偶関係 男女別人口－全国，都道府県，市区町村（2000年（平成12年）市区町村含む）"
+     },
+     "CYCLE": "-",
+     "SURVEY_DATE": 202010,
+     "OPEN_DATE": "2021-11-30",
+     "SMALL_AREA": 0,
+     "COLLECT_AREA": "市区町村",
+     "MAIN_CATEGORY": {
+      "@code": "02",
+      "$": "人口・世帯"
+     },
+     "SUB_CATEGORY": {
+      "@code": "01",
+      "$": "人口"
+     },
+     "OVERALL_TOTAL_NUMBER": 12258,
+     "UPDATED_DATE": "2026-09-29",
+     "STATISTICS_NAME_SPEC": {
+      "TABULATION_CATEGORY": "令和２年国勢調査",
+      "TABULATION_SUB_CATEGORY1": "人口等基本集計　（主な内容：男女・年齢・配偶関係，世帯の構成，住居の状態，母子・父子世帯，国籍など）"
+     },
+     "TITLE_SPEC": {
+      "TABLE_CATEGORY": "総人口・総世帯数・男女・年齢・配偶関係",
+      "TABLE_NAME": "男女別人口－全国，都道府県，市区町村（2000年（平成12年）市区町村含む）"
+     }
+    },
+    {
+     "@id": "0003445078",
+     "STAT_NAME": {
+      "@code": "00200521",
+      "$": "国勢調査"
+     },
+     "GOV_ORG": {
+      "@code": "00200",
+      "$": "総務省"
+     },
+     "STATISTICS_NAME": "令和２年国勢調査 人口等基本集計　（主な内容：男女・年齢・配偶関係，世帯の構成，住居の状態，母子・父子世帯，国籍など）",
+     "TITLE": {
+      "@no": "1-1-1",
+      "$": "総人口・総世帯数・男女・年齢・配偶関係 男女別人口－全国，都道府県，市区町村（2000年（平成12年）市区町村含む）"
+     },
+     "CYCLE": "-",
+     "SURVEY_DATE": 202010,
+     "OPEN_DATE": "2021-11-30",
+     "SMALL_AREA": 0,
+     "COLLECT_AREA": "都道府県",
+     "MAIN_CATEGORY": {
+      "@code": "02",
+      "$": "人口・世帯"
+     },
+     "SUB_CATEGORY": {
+      "@code": "01",
+      "$": "人口"
+     },
+     "OVERALL_TOTAL_NUMBER": 12258,
+     "UPDATED_DATE": "2026-09-29",
+     "STATISTICS_NAME_SPEC": {
+      "TABULATION_CATEGORY": "令和２年国勢調査",
+      "TABULATION_SUB_CATEGORY1": "人口等基本集計　（主な内容：男女・年齢・配偶関係，世帯の構成，住居の状態，母子・父子世帯，国籍など）"
+     },
+     "TITLE_SPEC": {
+      "TABLE_CATEGORY": "総人口・総世帯数・男女・年齢・配偶関係",
+      "TABLE_NAME": "男女別人口－全国，都道府県，市区町村（2000年（平成12年）市区町村含む）"
+     }
+    },
+    {
+     "@id": "0003445079",
+     "STAT_NAME": {
+      "@code": "00200521",
+      "$": "国勢調査"
+     },
+     "GOV_ORG": {
+      "@code": "00200",
+      "$": "総務省"
+     },
+     "STATISTICS_NAME": "令和２年国勢調査 人口等基本集計　（主な内容：男女・年齢・配偶関係，世帯の構成，住居の状態，母子・父子世帯，国籍など）",
+     "TITLE": {
+      "@no": "1-2-1",
+      "$": "総人口・総世帯数・男女・年齢・配偶関係 男女別人口－全国，都道府県，市区町村（人口集中地区）"
+     },
+     "CYCLE": "-",
+     "SURVEY_DATE": 202010,
+     "OPEN_DATE": "2021-11-30",
+     "SMALL_AREA": 0,
+     "COLLECT_AREA": "全国",
+     "MAIN_CATEGORY": {
+      "@code": "02",
+      "$": "人口・世帯"
+     },
+     "SUB_CATEGORY": {
+      "@code": "01",
+      "$": "人口"
+     },
+     "OVERALL_TOTAL_NUMBER": 29277,
+     "UPDATED_DATE": "2026-09-29",
+     "STATISTICS_NAME_SPEC": {
+      "TABULATION_CATEGORY": "令和２年国勢調査",
+      "TABULATION_SUB_CATEGORY1": "人口等基本集計　（主な内容：男女・年齢・配偶関係，世帯の構成，住居の状態，母子・父子世帯，国籍など）"
+     },
+     "TITLE_SPEC": {
+      "TABLE_CATEGORY": "総人口・総世帯数・男女・年齢・配偶関係",
+      "TABLE_NAME": "男女別人口－全国，都道府県，市区町村（人口集中地区）"
+     }
+    },
+    {
+     "@id": "0003445079",
+     "STAT_NAME": {
+      "@code": "00200521",
+      "$": "国勢調査"
+     },
+     "GOV_ORG": {
+      "@code": "00200",
+      "$": "総務省"
+     },
+     "STATISTICS_NAME": "令和２年国勢調査 人口等基本集計　（主な内容：男女・年齢・配偶関係，世帯の構成，住居の状態，母子・父子世帯，国籍など）",
+     "TITLE": {
+      "@no": "1-2-1",
+      "$": "総人口・総世帯数・男女・年齢・配偶関係 男女別人口－全国，都道府県，市区町村（人口集中地区）"
+     },
+     "CYCLE": "-",
+     "SURVEY_DATE": 202010,
+     "OPEN_DATE": "2021-11-30",
+     "SMALL_AREA": 0,
+     "COLLECT_AREA": "市区町村",
+     "MAIN_CATEGORY": {
+      "@code": "02",
+      "$": "人口・世帯"
+     },
+     "SUB_CATEGORY": {
+      "@code": "01",
+      "$": "人口"
+     },
+     "OVERALL_TOTAL_NUMBER": 29277,
+     "UPDATED_DATE": "2026-09-29",
+     "STATISTICS_NAME_SPEC": {
+      "TABULATION_CATEGORY": "令和２年国勢調査",
+      "TABULATION_SUB_CATEGORY1": "人口等基本集計　（主な内容：男女・年齢・配偶関係，世帯の構成，住居の状態，母子・父子世帯，国籍など）"
+     },
+     "TITLE_SPEC": {
+      "TABLE_CATEGORY": "総人口・総世帯数・男女・年齢・配偶関係",
+      "TABLE_NAME": "男女別人口－全国，都道府県，市区町村（人口集中地区）"
+     }
+    },
+    {
+     "@id": "0003445079",
+     "STAT_NAME": {
+      "@code": "00200521",
+      "$": "国勢調査"
+     },
+     "GOV_ORG": {
+      "@code": "00200",
+      "$": "総務省"
+     },
+     "STATISTICS_NAME": "令和２年国勢調査 人口等基本集計　（主な内容：男女・年齢・配偶関係，世帯の構成，住居の状態，母子・父子世帯，国籍など）",
+     "TITLE": {
+      "@no": "1-2-1",
+      "$": "総人口・総世帯数・男女・年齢・配偶関係 男女別人口－全国，都道府県，市区町村（人口集中地区）"
+     },
+     "CYCLE": "-",
+     "SURVEY_DATE": 202010,
+     "OPEN_DATE": "2021-11-30",
+     "SMALL_AREA": 0,
+     "COLLECT_AREA": "都道府県",
+     "MAIN_CATEGORY": {
+      "@code": "02",
+      "$": "人口・世帯"
+     },
+     "SUB_CATEGORY": {
+      "@code": "01",
+      "$": "人口"
+     },
+     "OVERALL_TOTAL_NUMBER": 29277,
+     "UPDATED_DATE": "2026-09-29",
+     "STATISTICS_NAME_SPEC": {
+      "TABULATION_CATEGORY": "令和２年国勢調査",
+      "TABULATION_SUB_CATEGORY1": "人口等基本集計　（主な内容：男女・年齢・配偶関係，世帯の構成，住居の状態，母子・父子世帯，国籍など）"
+     },
+     "TITLE_SPEC": {
+      "TABLE_CATEGORY": "総人口・総世帯数・男女・年齢・配偶関係",
+      "TABLE_NAME": "男女別人口－全国，都道府県，市区町村（人口集中地区）"
+     }
+    },
+    {
+     "@id": "0003463952",
+     "STAT_NAME": {
+      "@code": "00200521",
+      "$": "国勢調査"
+     },
+     "GOV_ORG": {
+      "@code": "00200",
+      "$": "総務省"
+     },
+     "STATISTICS_NAME": "令和２年国勢調査 人口等基本集計　（主な内容：男女・年齢・配偶関係，世帯の構成，住居の状態，母子・父子世帯，国籍など）",
+     "TITLE": {
+      "@no": "1-3-1",
+      "$": "総人口・総世帯数・男女・年齢・配偶関係 男女別人口－大都市圏"
+     },
+     "CYCLE": "-",
+     "SURVEY_DATE": 202010,
+     "OPEN_DATE": "2022-12-27",
+     "SMALL_AREA": 0,
+     "COLLECT_AREA": "全国",
+     "MAIN_CATEGORY": {
+      "@code": "02",
+      "$": "人口・世帯"
+     },
+     "SUB_CATEGORY": {
+      "@code": "01",
+      "$": "人口"
+     },
+     "OVERALL_TOTAL_NUMBER": 2448,
+     "UPDATED_DATE": "2026-09-29",
+     "STATISTICS_NAME_SPEC": {
+      "TABULATION_CATEGORY": "令和２年国勢調査",
+      "TABULATION_SUB_CATEGORY1": "人口等基本集計　（主な内容：男女・年齢・配偶関係，世帯の構成，住居の状態，母子・父子世帯，国籍など）"
+     },
+     "TITLE_SPEC": {
+      "TABLE_CATEGORY": "総人口・総世帯数・男女・年齢・配偶関係",
+      "TABLE_NAME": "男女別人口－大都市圏"
+     }
+    },
+    {
+     "@id": "0003463952",
+     "STAT_NAME": {
+      "@code": "00200521",
+      "$": "国勢調査"
+     },
+     "GOV_ORG": {
+      "@code": "00200",
+      "$": "総務省"
+     },
+     "STATISTICS_NAME": "令和２年国勢調査 人口等基本集計　（主な内容：男女・年齢・配偶関係，世帯の構成，住居の状態，母子・父子世帯，国籍など）",
+     "TITLE": {
+      "@no": "1-3-1",
+      "$": "総人口・総世帯数・男女・年齢・配偶関係 男女別人口－大都市圏"
+     },
+     "CYCLE": "-",
+     "SURVEY_DATE": 202010,
+     "OPEN_DATE": "2022-12-27",
+     "SMALL_AREA": 0,
+     "COLLECT_AREA": "市区町村",
+     "MAIN_CATEGORY": {
+      "@code": "02",
+      "$": "人口・世帯"
+     },
+     "SUB_CATEGORY": {
+      "@code": "01",
+      "$": "人口"
+     },
+     "OVERALL_TOTAL_NUMBER": 2448,
+     "UPDATED_DATE": "2026-09-29",
+     "STATISTICS_NAME_SPEC": {
+      "TABULATION_CATEGORY": "令和２年国勢調査",
+      "TABULATION_SUB_CATEGORY1": "人口等基本集計　（主な内容：男女・年齢・配偶関係，世帯の構成，住居の状態，母子・父子世帯，国籍など）"
+     },
+     "TITLE_SPEC": {
+      "TABLE_CATEGORY": "総人口・総世帯数・男女・年齢・配偶関係",
+      "TABLE_NAME": "男女別人口－大都市圏"
+     }
+    },
+    {
+     "@id": "0003463952",
+     "STAT_NAME": {
+      "@code": "00200521",
+      "$": "国勢調査"
+     },
+     "GOV_ORG": {
+      "@code": "00200",
+      "$": "総務省"
+     },
+     "STATISTICS_NAME": "令和２年国勢調査 人口等基本集計　（主な内容：男女・年齢・配偶関係，世帯の構成，住居の状態，母子・父子世帯，国籍など）",
+     "TITLE": {
+      "@no": "1-3-1",
+      "$": "総人口・総世帯数・男女・年齢・配偶関係 男女別人口－大都市圏"
+     },
+     "CYCLE": "-",
+     "SURVEY_DATE": 202010,
+     "OPEN_DATE": "2022-12-27",
+     "SMALL_AREA": 0,
+     "COLLECT_AREA": "都道府県",
+     "MAIN_CATEGORY": {
+      "@code": "02",
+      "$": "人口・世帯"
+     },
+     "SUB_CATEGORY": {
+      "@code": "01",
+      "$": "人口"
+     },
+     "OVERALL_TOTAL_NUMBER": 2448,
+     "UPDATED_DATE": "2026-09-29",
+     "STATISTICS_NAME_SPEC": {
+      "TABULATION_CATEGORY": "令和２年国勢調査",
+      "TABULATION_SUB_CATEGORY1": "人口等基本集計　（主な内容：男女・年齢・配偶関係，世帯の構成，住居の状態，母子・父子世帯，国籍など）"
+     },
+     "TITLE_SPEC": {
+      "TABLE_CATEGORY": "総人口・総世帯数・男女・年齢・配偶関係",
+      "TABLE_NAME": "男女別人口－大都市圏"
+     }
+    },
+    {
+     "@id": "0003463955",
+     "STAT_NAME": {
+      "@code": "00200521",
+      "$": "国勢調査"
+     },
+     "GOV_ORG": {
+      "@code": "00200",
+      "$": "総務省"
+     },
+     "STATISTICS_NAME": "令和２年国勢調査 人口等基本集計　（主な内容：男女・年齢・配偶関係，世帯の構成，住居の状態，母子・父子世帯，国籍など）",
+     "TITLE": {
+      "@no": "1-4-1",
+      "$": "総人口・総世帯数・男女・年齢・配偶関係 男女別人口－都市圏"
+     },
+     "CYCLE": "-",
+     "SURVEY_DATE": 202010,
+     "OPEN_DATE": "2022-12-27",
+     "SMALL_AREA": 0,
+     "COLLECT_AREA": "全国",
+     "MAIN_CATEGORY": {
+      "@code": "02",
+      "$": "人口・世帯"
+     },
+     "SUB_CATEGORY": {
+      "@code": "01",
+      "$": "人口"
+     },
+     "OVERALL_TOTAL_NUMBER": 135,
+     "UPDATED_DATE": "2026-09-29",
+     "STATISTICS_NAME_SPEC": {
+      "TABULATION_CATEGORY": "令和２年国勢調査",
+      "TABULATION_SUB_CATEGORY1": "人口等基本集計　（主な内容：男女・年齢・配偶関係，世帯の構成，住居の状態，母子・父子世帯，国籍など）"
+     },
+     "TITLE_SPEC": {
+      "TABLE_CATEGORY": "総人口・総世帯数・男女・年齢・配偶関係",
+      "TABLE_NAME": "男女別人口－都市圏"
+     }
+    },
+    {
+     "@id": "0003463955",
+     "STAT_NAME": {
+      "@code": "00200521",
+      "$": "国勢調査"
+     },
+     "GOV_ORG": {
+      "@code": "00200",
+      "$": "総務省"
+     },
+     "STATISTICS_NAME": "令和２年国勢調査 人口等基本集計　（主な内容：男女・年齢・配偶関係，世帯の構成，住居の状態，母子・父子世帯，国籍など）",
+     "TITLE": {
+      "@no": "1-4-1",
+      "$": "総人口・総世帯数・男女・年齢・配偶関係 男女別人口－都市圏"
+     },
+     "CYCLE": "-",
+     "SURVEY_DATE": 202010,
+     "OPEN_DATE": "2022-12-27",
+     "SMALL_AREA": 0,
+     "COLLECT_AREA": "市区町村",
+     "MAIN_CATEGORY": {
+      "@code": "02",
+      "$": "人口・世帯"
+     },
+     "SUB_CATEGORY": {
+      "@code": "01",
+      "$": "人口"
+     },
+     "OVERALL_TOTAL_NUMBER": 135,
+     "UPDATED_DATE": "2026-09-29",
+     "STATISTICS_NAME_SPEC": {
+      "TABULATION_CATEGORY": "令和２年国勢調査",
+      "TABULATION_SUB_CATEGORY1": "人口等基本集計　（主な内容：男女・年齢・配偶関係，世帯の構成，住居の状態，母子・父子世帯，国籍など）"
+     },
+     "TITLE_SPEC": {
+      "TABLE_CATEGORY": "総人口・総世帯数・男女・年齢・配偶関係",
+      "TABLE_NAME": "男女別人口－都市圏"
+     }
+    },
+    {
+     "@id": "0003463955",
+     "STAT_NAME": {
+      "@code": "00200521",
+      "$": "国勢調査"
+     },
+     "GOV_ORG": {
+      "@code": "00200",
+      "$": "総務省"
+     },
+     "STATISTICS_NAME": "令和２年国勢調査 人口等基本集計　（主な内容：男女・年齢・配偶関係，世帯の構成，住居の状態，母子・父子世帯，国籍など）",
+     "TITLE": {
+      "@no": "1-4-1",
+      "$": "総人口・総世帯数・男女・年齢・配偶関係 男女別人口－都市圏"
+     },
+     "CYCLE": "-",
+     "SURVEY_DATE": 202010,
+     "OPEN_DATE": "2022-12-27",
+     "SMALL_AREA": 0,
+     "COLLECT_AREA": "都道府県",
+     "MAIN_CATEGORY": {
+      "@code": "02",
+      "$": "人口・世帯"
+     },
+     "SUB_CATEGORY": {
+      "@code": "01",
+      "$": "人口"
+     },
+     "OVERALL_TOTAL_NUMBER": 135,
+     "UPDATED_DATE": "2026-09-29",
+     "STATISTICS_NAME_SPEC": {
+      "TABULATION_CATEGORY": "令和２年国勢調査",
+      "TABULATION_SUB_CATEGORY1": "人口等基本集計　（主な内容：男女・年齢・配偶関係，世帯の構成，住居の状態，母子・父子世帯，国籍など）"
+     },
+     "TITLE_SPEC": {
+      "TABLE_CATEGORY": "総人口・総世帯数・男女・年齢・配偶関係",
+      "TABLE_NAME": "男女別人口－都市圏"
+     }
+    },
+    {
+     "@id": "0003450680",
+     "STAT_NAME": {
+      "@code": "00200521",
+      "$": "国勢調査"
+     },
+     "GOV_ORG": {
+      "@code": "00200",
+      "$": "総務省"
+     },
+     "STATISTICS_NAME": "令和２年国勢調査 就業状態等基本集計　（主な内容：労働力状態，就業者の産業･職業，教育など）",
+     "TITLE": {
+      "@no": "56-1-2",
+      "$": "都市計画の地域区分 都市計画の地域区分，男女別人口－全国，都道府県，人口1万以上の市区町村"
+     },
+     "CYCLE": "-",
+     "SURVEY_DATE": 202010,
+     "OPEN_DATE": "2022-05-27",
+     "SMALL_AREA": 0,
+     "COLLECT_AREA": "全国",
+     "MAIN_CATEGORY": {
+      "@code": "02",
+      "$": "人口・世帯"
+     },
+     "SUB_CATEGORY": {
+      "@code": "01",
+      "$": "人口"
+     },
+     "OVERALL_TOTAL_NUMBER": 206496,
+     "UPDATED_DATE": "2026-09-29",
+     "STATISTICS_NAME_SPEC": {
+      "TABULATION_CATEGORY": "令和２年国勢調査",
+      "TABULATION_SUB_CATEGORY1": "就業状態等基本集計　（主な内容：労働力状態，就業者の産業･職業，教育など）"
+     },
+     "TITLE_SPEC": {
+      "TABLE_CATEGORY": "都市計画の地域区分",
+      "TABLE_NAME": "都市計画の地域区分，男女別人口－全国，都道府県，人口1万以上の市区町村"
+     }
+    },
+    {
+     "@id": "0003450680",
+     "STAT_NAME": {
+      "@code": "00200521",
+      "$": "国勢調査"
+     },
+     "GOV_ORG": {
+      "@code": "00200",
+      "$": "総務省"
+     },
+     "STATISTICS_NAME": "令和２年国勢調査 就業状態等基本集計　（主な内容：労働力状態，就業者の産業･職業，教育など）",
+     "TITLE": {
+      "@no": "56-1-2",
+      "$": "都市計画の地域区分 都市計画の地域区分，男女別人口－全国，都道府県，人口1万以上の市区町村"
+     },
+     "CYCLE": "-",
+     "SURVEY_DATE": 202010,
+     "OPEN_DATE": "2022-05-27",
+     "SMALL_AREA": 0,
+     "COLLECT_AREA": "市区町村",
+     "MAIN_CATEGORY": {
+      "@code": "02",
+      "$": "人口・世帯"
+     },
+     "SUB_CATEGORY": {
+      "@code": "01",
+      "$": "人口"
+     },
+     "OVERALL_TOTAL_NUMBER": 206496,
+     "UPDATED_DATE": "2026-09-29",
+     "STATISTICS_NAME_SPEC": {
+      "TABULATION_CATEGORY": "令和２年国勢調査",
+      "TABULATION_SUB_CATEGORY1": "就業状態等基本集計　（主な内容：労働力状態，就業者の産業･職業，教育など）"
+     },
+     "TITLE_SPEC": {
+      "TABLE_CATEGORY": "都市計画の地域区分",
+      "TABLE_NAME": "都市計画の地域区分，男女別人口－全国，都道府県，人口1万以上の市区町村"
+     }
+    },
+    {
+     "@id": "0003450680",
+     "STAT_NAME": {
+      "@code": "00200521",
+      "$": "国勢調査"
+     },
+     "GOV_ORG": {
+      "@code": "00200",
+      "$": "総務省"
+     },
+     "STATISTICS_NAME": "令和２年国勢調査 就業状態等基本集計　（主な内容：労働力状態，就業者の産業･職業，教育など）",
+     "TITLE": {
+      "@no": "56-1-2",
+      "$": "都市計画の地域区分 都市計画の地域区分，男女別人口－全国，都道府県，人口1万以上の市区町村"
+     },
+     "CYCLE": "-",
+     "SURVEY_DATE": 202010,
+     "OPEN_DATE": "2022-05-27",
+     "SMALL_AREA": 0,
+     "COLLECT_AREA": "都道府県",
+     "MAIN_CATEGORY": {
+      "@code": "02",
+      "$": "人口・世帯"
+     },
+     "SUB_CATEGORY": {
+      "@code": "01",
+      "$": "人口"
+     },
+     "OVERALL_TOTAL_NUMBER": 206496,
+     "UPDATED_DATE": "2026-09-29",
+     "STATISTICS_NAME_SPEC": {
+      "TABULATION_CATEGORY": "令和２年国勢調査",
+      "TABULATION_SUB_CATEGORY1": "就業状態等基本集計　（主な内容：労働力状態，就業者の産業･職業，教育など）"
+     },
+     "TITLE_SPEC": {
+      "TABLE_CATEGORY": "都市計画の地域区分",
+      "TABLE_NAME": "都市計画の地域区分，男女別人口－全国，都道府県，人口1万以上の市区町村"
+     }
+    },
+    {
+     "@id": "0003450681",
+     "STAT_NAME": {
+      "@code": "00200521",
+      "$": "国勢調査"
+     },
+     "GOV_ORG": {
+      "@code": "00200",
+      "$": "総務省"
+     },
+     "STATISTICS_NAME": "令和２年国勢調査 就業状態等基本集計　（主な内容：労働力状態，就業者の産業･職業，教育など）",
+     "TITLE": {
+      "@no": "56-2-2",
+      "$": "都市計画の地域区分 都市計画の地域区分，男女別人口－全国，都道府県，市区町村"
+     },
+     "CYCLE": "-",
+     "SURVEY_DATE": 202010,
+     "OPEN_DATE": "2022-05-27",
+     "SMALL_AREA": 0,
+     "COLLECT_AREA": "全国",
+     "MAIN_CATEGORY": {
+      "@code": "02",
+      "$": "人口・世帯"
+     },
+     "SUB_CATEGORY": {
+      "@code": "01",
+      "$": "人口"
+     },
+     "OVERALL_TOTAL_NUMBER": 47160,
+     "UPDATED_DATE": "2026-09-29",
+     "STATISTICS_NAME_SPEC": {
+      "TABULATION_CATEGORY": "令和２年国勢調査",
+      "TABULATION_SUB_CATEGORY1": "就業状態等基本集計　（主な内容：労働力状態，就業者の産業･職業，教育など）"
+     },
+     "TITLE_SPEC": {
+      "TABLE_CATEGORY": "都市計画の地域区分",
+      "TABLE_NAME": "都市計画の地域区分，男女別人口－全国，都道府県，市区町村"
+     }
+    },
+    {
+     "@id": "0003450681",
+     "STAT_NAME": {
+      "@code": "00200521",
+      "$": "国勢調査"
+     },
+     "GOV_ORG": {
+      "@code": "00200",
+      "$": "総務省"
+     },
+     "STATISTICS_NAME": "令和２年国勢調査 就業状態等基本集計　（主な内容：労働力状態，就業者の産業･職業，教育など）",
+     "TITLE": {
+      "@no": "56-2-2",
+      "$": "都市計画の地域区分 都市計画の地域区分，男女別人口－全国，都道府県，市区町村"
+     },
+     "CYCLE": "-",
+     "SURVEY_DATE": 202010,
+     "OPEN_DATE": "2022-05-27",
+     "SMALL_AREA": 0,
+     "COLLECT_AREA": "市区町村",
+     "MAIN_CATEGORY": {
+      "@code": "02",
+      "$": "人口・世帯"
+     },
+     "SUB_CATEGORY": {
+      "@code": "01",
+      "$": "人口"
+     },
+     "OVERALL_TOTAL_NUMBER": 47160,
+     "UPDATED_DATE": "2026-09-29",
+     "STATISTICS_NAME_SPEC": {
+      "TABULATION_CATEGORY": "令和２年国勢調査",
+      "TABULATION_SUB_CATEGORY1": "就業状態等基本集計　（主な内容：労働力状態，就業者の産業･職業，教育など）"
+     },
+     "TITLE_SPEC": {
+      "TABLE_CATEGORY": "都市計画の地域区分",
+      "TABLE_NAME": "都市計画の地域区分，男女別人口－全国，都道府県，市区町村"
+     }
+    },
+    {
+     "@id": "0003450681",
+     "STAT_NAME": {
+      "@code": "00200521",
+      "$": "国勢調査"
+     },
+     "GOV_ORG": {
+      "@code": "00200",
+      "$": "総務省"
+     },
+     "STATISTICS_NAME": "令和２年国勢調査 就業状態等基本集計　（主な内容：労働力状態，就業者の産業･職業，教育など）",
+     "TITLE": {
+      "@no": "56-2-2",
+      "$": "都市計画の地域区分 都市計画の地域区分，男女別人口－全国，都道府県，市区町村"
+     },
+     "CYCLE": "-",
+     "SURVEY_DATE": 202010,
+     "OPEN_DATE": "2022-05-27",
+     "SMALL_AREA": 0,
+     "COLLECT_AREA": "都道府県",
+     "MAIN_CATEGORY": {
+      "@code": "02",
+      "$": "人口・世帯"
+     },
+     "SUB_CATEGORY": {
+      "@code": "01",
+      "$": "人口"
+     },
+     "OVERALL_TOTAL_NUMBER": 47160,
+     "UPDATED_DATE": "2026-09-29",
+     "STATISTICS_NAME_SPEC": {
+      "TABULATION_CATEGORY": "令和２年国勢調査",
+      "TABULATION_SUB_CATEGORY1": "就業状態等基本集計　（主な内容：労働力状態，就業者の産業･職業，教育など）"
+     },
+     "TITLE_SPEC": {
+      "TABLE_CATEGORY": "都市計画の地域区分",
+      "TABLE_NAME": "都市計画の地域区分，男女別人口－全国，都道府県，市区町村"
+     }
+    },
+    {
+     "@id": "0003447423",
+     "STAT_NAME": {
+      "@code": "00200521",
+      "$": "国勢調査"
+     },
+     "GOV_ORG": {
+      "@code": "00200",
+      "$": "総務省"
+     },
+     "STATISTICS_NAME": "令和２年国勢調査 移動人口の男女・年齢等集計　（主な内容：人口の転出入状況）",
+     "TITLE": {
+      "@no": "6",
+      "$": "移動人口の男女・年齢 5年前の常住都道府県，年齢（5歳階級），男女別人口 － 全国，都道府県（現住地）"
+     },
+     "CYCLE": "-",
+     "SURVEY_DATE": 202010,
+     "OPEN_DATE": "2022-02-28",
+     "SMALL_AREA": 0,
+     "COLLECT_AREA": "全国",
+     "MAIN_CATEGORY": {
+      "@code": "02",
+      "$": "人口・世帯"
+     },
+     "SUB_CATEGORY": {
+      "@code": "01",
+      "$": "人口"
+     },
+     "OVERALL_TOTAL_NUMBER": 212976,
+     "UPDATED_DATE": "2026-09-29",
+     "STATISTICS_NAME_SPEC": {
+      "TABULATION_CATEGORY": "令和２年国勢調査",
+      "TABULATION_SUB_CATEGORY1": "移動人口の男女・年齢等集計　（主な内容：人口の転出入状況）"
+     },
+     "TITLE_SPEC": {
+      "TABLE_CATEGORY": "移動人口の男女・年齢",
+      "TABLE_NAME": "5年前の常住都道府県，年齢（5歳階級），男女別人口 － 全国，都道府県（現住地）"
+     }
+    },
+    {
+     "@id": "0003447423",
+     "STAT_NAME": {
+      "@code": "00200521",
+      "$": "国勢調査"
+     },
+     "GOV_ORG": {
+      "@code": "00200",
+      "$": "総務省"
+     },
+     "STATISTICS_NAME": "令和２年国勢調査 移動人口の男女・年齢等集計　（主な内容：人口の転出入状況）",
+     "TITLE": {
+      "@no": "6",
+      "$": "移動人口の男女・年齢 5年前の常住都道府県，年齢（5歳階級），男女別人口 － 全国，都道府県（現住地）"
+     },
+     "CYCLE": "-",
+     "SURVEY_DATE": 202010,
+     "OPEN_DATE": "2022-02-28",
+     "SMALL_AREA": 0,
+     "COLLECT_AREA": "都道府県",
+     "MAIN_CATEGORY": {
+      "@code": "02",
+      "$": "人口・世帯"
+     },
+     "SUB_CATEGORY": {
+      "@code": "01",
+      "$": "人口"
+     },
+     "OVERALL_TOTAL_NUMBER": 212976,
+     "UPDATED_DATE": "2026-09-29",
+     "STATISTICS_NAME_SPEC": {
+      "TABULATION_CATEGORY": "令和２年国勢調査",
+      "TABULATION_SUB_CATEGORY1": "移動人口の男女・年齢等集計　（主な内容：人口の転出入状況）"
+     },
+     "TITLE_SPEC": {
+      "TABLE_CATEGORY": "移動人口の男女・年齢",
+      "TABLE_NAME": "5年前の常住都道府県，年齢（5歳階級），男女別人口 － 全国，都道府県（現住地）"
+     }
+    },
+    {
+     "@id": "0004020976",
+     "STAT_NAME": {
+      "@code": "00200521",
+      "$": "国勢調査"
+     },
+     "GOV_ORG": {
+      "@code": "00200",
+      "$": "総務省"
+     },
+     "STATISTICS_NAME": "令和２年国勢調査 参考表：不詳補完結果 令和２年国勢調査に関する不詳補完結果",
+     "TITLE": {
+      "@no": "4",
+      "$": "5年前の常住地の不詳補完（移動人口の男女・年齢等集計に対応） 5年前の常住都道府県，年齢（5歳階級），男女別人口 － 全国，都道府県（現住地）"
+     },
+     "CYCLE": "-",
+     "SURVEY_DATE": 202010,
+     "OPEN_DATE": "2024-09-30",
+     "SMALL_AREA": 0,
+     "COLLECT_AREA": "全国",
+     "MAIN_CATEGORY": {
+      "@code": "02",
+      "$": "人口・世帯"
+     },
+     "SUB_CATEGORY": {
+      "@code": "01",
+      "$": "人口"
+     },
+     "OVERALL_TOTAL_NUMBER": 176400,
+     "UPDATED_DATE": "2026-09-29",
+     "STATISTICS_NAME_SPEC": {
+      "TABULATION_CATEGORY": "令和２年国勢調査",
+      "TABULATION_SUB_CATEGORY1": "参考表：不詳補完結果",
+      "TABULATION_SUB_CATEGORY2": "令和２年国勢調査に関する不詳補完結果"
+     },
+     "TITLE_SPEC": {
+      "TABLE_CATEGORY": "5年前の常住地の不詳補完（移動人口の男女・年齢等集計に対応）",
+      "TABLE_NAME": "5年前の常住都道府県，年齢（5歳階級），男女別人口 － 全国，都道府県（現住地）"
+     }
+    },
+    {
+     "@id": "0004020976",
+     "STAT_NAME": {
+      "@code": "00200521",
+      "$": "国勢調査"
+     },
+     "GOV_ORG": {
+      "@code": "00200",
+      "$": "総務省"
+     },
+     "STATISTICS_NAME": "令和２年国勢調査 参考表：不詳補完結果 令和２年国勢調査に関する不詳補完結果",
+     "TITLE": {
+      "@no": "4",
+      "$": "5年前の常住地の不詳補完（移動人口の男女・年齢等集計に対応） 5年前の常住都道府県，年齢（5歳階級），男女別人口 － 全国，都道府県（現住地）"
+     },
+     "CYCLE": "-",
+     "SURVEY_DATE": 202010,
+     "OPEN_DATE": "2024-09-30",
+     "SMALL_AREA": 0,
+     "COLLECT_AREA": "市区町村",
+     "MAIN_CATEGORY": {
+      "@code": "02",
+      "$": "人口・世帯"
+     },
+     "SUB_CATEGORY": {
+      "@code": "01",
+      "$": "人口"
+     },
+     "OVERALL_TOTAL_NUMBER": 176400,
+     "UPDATED_DATE": "2026-09-29",
+     "STATISTICS_NAME_SPEC": {
+      "TABULATION_CATEGORY": "令和２年国勢調査",
+      "TABULATION_SUB_CATEGORY1": "参考表：不詳補完結果",
+      "TABULATION_SUB_CATEGORY2": "令和２年国勢調査に関する不詳補完結果"
+     },
+     "TITLE_SPEC": {
+      "TABLE_CATEGORY": "5年前の常住地の不詳補完（移動人口の男女・年齢等集計に対応）",
+      "TABLE_NAME": "5年前の常住都道府県，年齢（5歳階級），男女別人口 － 全国，都道府県（現住地）"
+     }
+    },
+    {
+     "@id": "0004020976",
+     "STAT_NAME": {
+      "@code": "00200521",
+      "$": "国勢調査"
+     },
+     "GOV_ORG": {
+      "@code": "00200",
+      "$": "総務省"
+     },
+     "STATISTICS_NAME": "令和２年国勢調査 参考表：不詳補完結果 令和２年国勢調査に関する不詳補完結果",
+     "TITLE": {
+      "@no": "4",
+      "$": "5年前の常住地の不詳補完（移動人口の男女・年齢等集計に対応） 5年前の常住都道府県，年齢（5歳階級），男女別人口 － 全国，都道府県（現住地）"
+     },
+     "CYCLE": "-",
+     "SURVEY_DATE": 202010,
+     "OPEN_DATE": "2024-09-30",
+     "SMALL_AREA": 0,
+     "COLLECT_AREA": "都道府県",
+     "MAIN_CATEGORY": {
+      "@code": "02",
+      "$": "人口・世帯"
+     },
+     "SUB_CATEGORY": {
+      "@code": "01",
+      "$": "人口"
+     },
+     "OVERALL_TOTAL_NUMBER": 176400,
+     "UPDATED_DATE": "2026-09-29",
+     "STATISTICS_NAME_SPEC": {
+      "TABULATION_CATEGORY": "令和２年国勢調査",
+      "TABULATION_SUB_CATEGORY1": "参考表：不詳補完結果",
+      "TABULATION_SUB_CATEGORY2": "令和２年国勢調査に関する不詳補完結果"
+     },
+     "TITLE_SPEC": {
+      "TABLE_CATEGORY": "5年前の常住地の不詳補完（移動人口の男女・年齢等集計に対応）",
+      "TABLE_NAME": "5年前の常住都道府県，年齢（5歳階級），男女別人口 － 全国，都道府県（現住地）"
+     }
+    },
+    {
+     "@id": "0004020977",
+     "STAT_NAME": {
+      "@code": "00200521",
+      "$": "国勢調査"
+     },
+     "GOV_ORG": {
+      "@code": "00200",
+      "$": "総務省"
+     },
+     "STATISTICS_NAME": "令和２年国勢調査 参考表：不詳補完結果 令和２年国勢調査に関する不詳補完結果",
+     "TITLE": {
+      "@no": "5-1",
+      "$": "5年前の常住地の不詳補完（移動人口の男女・年齢等集計に対応） 5年前の常住市区町村，男女別人口 － 全国，都道府県，市区町村（現住地）"
+     },
+     "CYCLE": "-",
+     "SURVEY_DATE": 202010,
+     "OPEN_DATE": "2024-09-30",
+     "SMALL_AREA": 0,
+     "COLLECT_AREA": "全国",
+     "MAIN_CATEGORY": {
+      "@code": "02",
+      "$": "人口・世帯"
+     },
+     "SUB_CATEGORY": {
+      "@code": "01",
+      "$": "人口"
+     },
+     "OVERALL_TOTAL_NUMBER": 11589570,
+     "UPDATED_DATE": "2026-09-29",
+     "STATISTICS_NAME_SPEC": {
+      "TABULATION_CATEGORY": "令和２年国勢調査",
+      "TABULATION_SUB_CATEGORY1": "参考表：不詳補完結果",
+      "TABULATION_SUB_CATEGORY2": "令和２年国勢調査に関する不詳補完結果"
+     },
+     "TITLE_SPEC": {
+      "TABLE_CATEGORY": "5年前の常住地の不詳補完（移動人口の男女・年齢等集計に対応）",
+      "TABLE_NAME": "5年前の常住市区町村，男女別人口 － 全国，都道府県，市区町村（現住地）"
+     }
+    },
+    {
+     "@id": "0004020977",
+     "STAT_NAME": {
+      "@code": "00200521",
+      "$": "国勢調査"
+     },
+     "GOV_ORG": {
+      "@code": "00200",
+      "$": "総務省"
+     },
+     "STATISTICS_NAME": "令和２年国勢調査 参考表：不詳補完結果 令和２年国勢調査に関する不詳補完結果",
+     "TITLE": {
+      "@no": "5-1",
+      "$": "5年前の常住地の不詳補完（移動人口の男女・年齢等集計に対応） 5年前の常住市区町村，男女別人口 － 全国，都道府県，市区町村（現住地）"
+     },
+     "CYCLE": "-",
+     "SURVEY_DATE": 202010,
+     "OPEN_DATE": "2024-09-30",
+     "SMALL_AREA": 0,
+     "COLLECT_AREA": "市区町村",
+     "MAIN_CATEGORY": {
+      "@code": "02",
+      "$": "人口・世帯"
+     },
+     "SUB_CATEGORY": {
+      "@code": "01",
+      "$": "人口"
+     },
+     "OVERALL_TOTAL_NUMBER": 11589570,
+     "UPDATED_DATE": "2026-09-29",
+     "STATISTICS_NAME_SPEC": {
+      "TABULATION_CATEGORY": "令和２年国勢調査",
+      "TABULATION_SUB_CATEGORY1": "参考表：不詳補完結果",
+      "TABULATION_SUB_CATEGORY2": "令和２年国勢調査に関する不詳補完結果"
+     },
+     "TITLE_SPEC": {
+      "TABLE_CATEGORY": "5年前の常住地の不詳補完（移動人口の男女・年齢等集計に対応）",
+      "TABLE_NAME": "5年前の常住市区町村，男女別人口 － 全国，都道府県，市区町村（現住地）"
+     }
+    },
+    {
+     "@id": "0004020977",
+     "STAT_NAME": {
+      "@code": "00200521",
+      "$": "国勢調査"
+     },
+     "GOV_ORG": {
+      "@code": "00200",
+      "$": "総務省"
+     },
+     "STATISTICS_NAME": "令和２年国勢調査 参考表：不詳補完結果 令和２年国勢調査に関する不詳補完結果",
+     "TITLE": {
+      "@no": "5-1",
+      "$": "5年前の常住地の不詳補完（移動人口の男女・年齢等集計に対応） 5年前の常住市区町村，男女別人口 － 全国，都道府県，市区町村（現住地）"
+     },
+     "CYCLE": "-",
+     "SURVEY_DATE": 202010,
+     "OPEN_DATE": "2024-09-30",
+     "SMALL_AREA": 0,
+     "COLLECT_AREA": "都道府県",
+     "MAIN_CATEGORY": {
+      "@code": "02",
+      "$": "人口・世帯"
+     },
+     "SUB_CATEGORY": {
+      "@code": "01",
+      "$": "人口"
+     },
+     "OVERALL_TOTAL_NUMBER": 11589570,
+     "UPDATED_DATE": "2026-09-29",
+     "STATISTICS_NAME_SPEC": {
+      "TABULATION_CATEGORY": "令和２年国勢調査",
+      "TABULATION_SUB_CATEGORY1": "参考表：不詳補完結果",
+      "TABULATION_SUB_CATEGORY2": "令和２年国勢調査に関する不詳補完結果"
+     },
+     "TITLE_SPEC": {
+      "TABLE_CATEGORY": "5年前の常住地の不詳補完（移動人口の男女・年齢等集計に対応）",
+      "TABLE_NAME": "5年前の常住市区町村，男女別人口 － 全国，都道府県，市区町村（現住地）"
+     }
+    }
+   ]
+  }
+ }
+}

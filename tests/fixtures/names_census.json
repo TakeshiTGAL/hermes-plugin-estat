@@ -1,0 +1,68 @@
+{
+ "GET_STATS_LIST": {
+  "RESULT": {
+   "STATUS": 0,
+   "ERROR_MSG": "正常に終了しました。",
+   "DATE": "2026-10-02T21:42:14.984+09:00"
+  },
+  "PARAMETER": {
+   "LANG": "J",
+   "SEARCH_WORD": "国勢調査",
+   "STATS_NAME_LIST": "Y",
+   "DATA_FORMAT": "J"
+  },
+  "DATALIST_INF": {
+   "NUMBER": 4,
+   "RESULT_INF": {
+    "FROM_NUMBER": 1,
+    "TO_NUMBER": 4
+   },
+   "LIST_INF": [
+    {
+     "@id": "00200502",
+     "STAT_NAME": {
+      "@code": "00200502",
+      "$": "社会・人口統計体系"
+     },
+     "GOV_ORG": {
+      "@code": "00200",
+      "$": "総務省"
+     }
+    },
+    {
+     "@id": "00200521",
+     "STAT_NAME": {
+      "@code": "00200521",
+      "$": "国勢調査"
+     },
+     "GOV_ORG": {
+      "@code": "00200",
+      "$": "総務省"
+     }
+    },
+    {
+     "@id": "00200524",
+     "STAT_NAME": {
+      "@code": "00200524",
+      "$": "人口推計"
+     },
+     "GOV_ORG": {
+      "@code": "00200",
+      "$": "総務省"
+     }
+    },
+    {
+     "@id": "00200531",
+     "STAT_NAME": {
+      "@code": "00200531",
+      "$": "労働力調査"
+     },
+     "GOV_ORG": {
+      "@code": "00200",
+      "$": "総務省"
+     }
+    }
+   ]
+  }
+ }
+}

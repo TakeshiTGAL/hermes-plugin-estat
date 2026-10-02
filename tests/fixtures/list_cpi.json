@@ -1,0 +1,210 @@
+{
+ "GET_STATS_LIST": {
+  "RESULT": {
+   "STATUS": 0,
+   "ERROR_MSG": "正常に終了しました。",
+   "DATE": "2026-10-02T21:42:04.607+09:00"
+  },
+  "PARAMETER": {
+   "LANG": "J",
+   "STATS_CODE": "00200573",
+   "EXPLANATION_GET_FLG": "N",
+   "DATA_FORMAT": "J",
+   "LIMIT": 100
+  },
+  "DATALIST_INF": {
+   "NUMBER": 5,
+   "RESULT_INF": {
+    "FROM_NUMBER": 1,
+    "TO_NUMBER": 5
+   },
+   "TABLE_INF": [
+    {
+     "@id": "0002050001",
+     "STAT_NAME": {
+      "@code": "00200573",
+      "$": "消費者物価指数"
+     },
+     "GOV_ORG": {
+      "@code": "00200",
+      "$": "総務省"
+     },
+     "STATISTICS_NAME": "平成17年基準消費者物価指数",
+     "TITLE": {
+      "@no": "001",
+      "$": "消費者物価指数（平成17年基準）"
+     },
+     "CYCLE": "-",
+     "SURVEY_DATE": 0,
+     "OPEN_DATE": "2012-01-27",
+     "SMALL_AREA": 0,
+     "COLLECT_AREA": "該当なし",
+     "MAIN_CATEGORY": {
+      "@code": "07",
+      "$": "企業・家計・経済"
+     },
+     "SUB_CATEGORY": {
+      "@code": "03",
+      "$": "物価"
+     },
+     "OVERALL_TOTAL_NUMBER": 10785241,
+     "UPDATED_DATE": "2026-01-30",
+     "STATISTICS_NAME_SPEC": {
+      "TABULATION_CATEGORY": "平成17年基準消費者物価指数"
+     },
+     "TITLE_SPEC": {
+      "TABLE_NAME": "消費者物価指数（平成17年基準）"
+     }
+    },
+    {
+     "@id": "0003036792",
+     "STAT_NAME": {
+      "@code": "00200573",
+      "$": "消費者物価指数"
+     },
+     "GOV_ORG": {
+      "@code": "00200",
+      "$": "総務省"
+     },
+     "STATISTICS_NAME": "平成22年基準消費者物価指数",
+     "TITLE": {
+      "@no": "1",
+      "$": "消費者物価指数（平成22年基準）"
+     },
+     "CYCLE": "-",
+     "SURVEY_DATE": 0,
+     "OPEN_DATE": "2017-01-27",
+     "SMALL_AREA": 0,
+     "COLLECT_AREA": "該当なし",
+     "MAIN_CATEGORY": {
+      "@code": "07",
+      "$": "企業・家計・経済"
+     },
+     "SUB_CATEGORY": {
+      "@code": "03",
+      "$": "物価"
+     },
+     "OVERALL_TOTAL_NUMBER": 13184212,
+     "UPDATED_DATE": "2026-01-30",
+     "STATISTICS_NAME_SPEC": {
+      "TABULATION_CATEGORY": "平成22年基準消費者物価指数"
+     },
+     "TITLE_SPEC": {
+      "TABLE_NAME": "消費者物価指数（平成22年基準）"
+     }
+    },
+    {
+     "@id": "0003143513",
+     "STAT_NAME": {
+      "@code": "00200573",
+      "$": "消費者物価指数"
+     },
+     "GOV_ORG": {
+      "@code": "00200",
+      "$": "総務省"
+     },
+     "STATISTICS_NAME": "2015年基準消費者物価指数",
+     "TITLE": {
+      "@no": "1",
+      "$": "消費者物価指数（2015年基準）"
+     },
+     "CYCLE": "-",
+     "SURVEY_DATE": 0,
+     "OPEN_DATE": "2022-01-21",
+     "SMALL_AREA": 0,
+     "COLLECT_AREA": "該当なし",
+     "MAIN_CATEGORY": {
+      "@code": "07",
+      "$": "企業・家計・経済"
+     },
+     "SUB_CATEGORY": {
+      "@code": "03",
+      "$": "物価"
+     },
+     "OVERALL_TOTAL_NUMBER": 14612926,
+     "UPDATED_DATE": "2026-01-30",
+     "STATISTICS_NAME_SPEC": {
+      "TABULATION_CATEGORY": "2015年基準消費者物価指数"
+     },
+     "TITLE_SPEC": {
+      "TABLE_NAME": "消費者物価指数（2015年基準）"
+     }
+    },
+    {
+     "@id": "0003427113",
+     "STAT_NAME": {
+      "@code": "00200573",
+      "$": "消費者物価指数"
+     },
+     "GOV_ORG": {
+      "@code": "00200",
+      "$": "総務省"
+     },
+     "STATISTICS_NAME": "2020年基準消費者物価指数",
+     "TITLE": {
+      "@no": "1",
+      "$": "消費者物価指数（2020年基準）"
+     },
+     "CYCLE": "-",
+     "SURVEY_DATE": 0,
+     "OPEN_DATE": "2026-09-18",
+     "SMALL_AREA": 0,
+     "COLLECT_AREA": "該当なし",
+     "MAIN_CATEGORY": {
+      "@code": "07",
+      "$": "企業・家計・経済"
+     },
+     "SUB_CATEGORY": {
+      "@code": "03",
+      "$": "物価"
+     },
+     "OVERALL_TOTAL_NUMBER": 13534742,
+     "UPDATED_DATE": "2026-09-18",
+     "STATISTICS_NAME_SPEC": {
+      "TABULATION_CATEGORY": "2020年基準消費者物価指数"
+     },
+     "TITLE_SPEC": {
+      "TABLE_NAME": "消費者物価指数（2020年基準）"
+     }
+    },
+    {
+     "@id": "0004052037",
+     "STAT_NAME": {
+      "@code": "00200573",
+      "$": "消費者物価指数"
+     },
+     "GOV_ORG": {
+      "@code": "00200",
+      "$": "総務省"
+     },
+     "STATISTICS_NAME": "2025年基準消費者物価指数",
+     "TITLE": {
+      "@no": "1",
+      "$": "消費者物価指数（2025年基準）"
+     },
+     "CYCLE": "-",
+     "SURVEY_DATE": 0,
+     "OPEN_DATE": "2026-10-02",
+     "SMALL_AREA": 0,
+     "COLLECT_AREA": "該当なし",
+     "MAIN_CATEGORY": {
+      "@code": "07",
+      "$": "企業・家計・経済"
+     },
+     "SUB_CATEGORY": {
+      "@code": "03",
+      "$": "物価"
+     },
+     "OVERALL_TOTAL_NUMBER": 13103352,
+     "UPDATED_DATE": "2026-10-02",
+     "STATISTICS_NAME_SPEC": {
+      "TABULATION_CATEGORY": "2025年基準消費者物価指数"
+     },
+     "TITLE_SPEC": {
+      "TABLE_NAME": "消費者物価指数（2025年基準）"
+     }
+    }
+   ]
+  }
+ }
+}

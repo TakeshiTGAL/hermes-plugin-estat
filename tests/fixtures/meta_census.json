@@ -1,0 +1,189 @@
+{
+ "GET_META_INFO": {
+  "RESULT": {
+   "STATUS": 0,
+   "ERROR_MSG": "正常に終了しました。",
+   "DATE": "2026-10-02T21:42:01.105+09:00"
+  },
+  "PARAMETER": {
+   "LANG": "J",
+   "STATS_DATA_ID": "0003445078",
+   "EXPLANATION_GET_FLG": "N",
+   "DATA_FORMAT": "J"
+  },
+  "METADATA_INF": {
+   "TABLE_INF": {
+    "@id": "0003445078",
+    "STAT_NAME": {
+     "@code": "00200521",
+     "$": "国勢調査"
+    },
+    "GOV_ORG": {
+     "@code": "00200",
+     "$": "総務省"
+    },
+    "STATISTICS_NAME": "令和２年国勢調査 人口等基本集計　（主な内容：男女・年齢・配偶関係，世帯の構成，住居の状態，母子・父子世帯，国籍など）",
+    "TITLE": {
+     "@no": "1-1-1",
+     "$": "総人口・総世帯数・男女・年齢・配偶関係 男女別人口－全国，都道府県，市区町村（2000年（平成12年）市区町村含む）"
+    },
+    "CYCLE": "-",
+    "SURVEY_DATE": 202010,
+    "OPEN_DATE": "2021-11-30",
+    "SMALL_AREA": 0,
+    "COLLECT_AREA": "全国",
+    "MAIN_CATEGORY": {
+     "@code": "02",
+     "$": "人口・世帯"
+    },
+    "SUB_CATEGORY": {
+     "@code": "01",
+     "$": "人口"
+    },
+    "OVERALL_TOTAL_NUMBER": 12258,
+    "UPDATED_DATE": "2026-09-29",
+    "STATISTICS_NAME_SPEC": {
+     "TABULATION_CATEGORY": "令和２年国勢調査",
+     "TABULATION_SUB_CATEGORY1": "人口等基本集計　（主な内容：男女・年齢・配偶関係，世帯の構成，住居の状態，母子・父子世帯，国籍など）"
+    },
+    "TITLE_SPEC": {
+     "TABLE_CATEGORY": "総人口・総世帯数・男女・年齢・配偶関係",
+     "TABLE_NAME": "男女別人口－全国，都道府県，市区町村（2000年（平成12年）市区町村含む）"
+    }
+   },
+   "CLASS_INF": {
+    "CLASS_OBJ": [
+     {
+      "@id": "tab",
+      "@name": "表章事項",
+      "CLASS": {
+       "@code": "2020_01",
+       "@name": "人口",
+       "@level": "",
+       "@unit": "人"
+      }
+     },
+     {
+      "@id": "cat01",
+      "@name": "男女",
+      "CLASS": [
+       {
+        "@code": "0",
+        "@name": "総数",
+        "@level": "1"
+       },
+       {
+        "@code": "1",
+        "@name": "男",
+        "@level": "1"
+       },
+       {
+        "@code": "2",
+        "@name": "女",
+        "@level": "1"
+       }
+      ]
+     },
+     {
+      "@id": "area",
+      "@name": "全国，都道府県，市区町村（2000年市区町村含む）",
+      "CLASS": [
+       {
+        "@code": "00000",
+        "@name": "全国",
+        "@level": "1"
+       },
+       {
+        "@code": "01000",
+        "@name": "北海道",
+        "@level": "2",
+        "@parentCode": "00000"
+       },
+       {
+        "@code": "01100",
+        "@name": "札幌市",
+        "@level": "4",
+        "@parentCode": "01000"
+       },
+       {
+        "@code": "13000",
+        "@name": "東京都",
+        "@level": "2",
+        "@parentCode": "00000"
+       },
+       {
+        "@code": "13100",
+        "@name": "特別区部",
+        "@level": "4",
+        "@parentCode": "13000"
+       },
+       {
+        "@code": "13101",
+        "@name": "千代田区",
+        "@level": "4",
+        "@parentCode": "13100"
+       },
+       {
+        "@code": "13201",
+        "@name": "八王子市",
+        "@level": "4",
+        "@parentCode": "13000"
+       },
+       {
+        "@code": "13206",
+        "@name": "府中市",
+        "@level": "4",
+        "@parentCode": "13000"
+       },
+       {
+        "@code": "13229",
+        "@name": "西東京市",
+        "@level": "4",
+        "@parentCode": "13000"
+       },
+       {
+        "@code": "26000",
+        "@name": "京都府",
+        "@level": "2",
+        "@parentCode": "00000"
+       },
+       {
+        "@code": "27000",
+        "@name": "大阪府",
+        "@level": "2",
+        "@parentCode": "00000"
+       },
+       {
+        "@code": "27100",
+        "@name": "大阪市",
+        "@level": "4",
+        "@parentCode": "27000"
+       },
+       {
+        "@code": "34000",
+        "@name": "広島県",
+        "@level": "2",
+        "@parentCode": "00000"
+       },
+       {
+        "@code": "34208",
+        "@name": "府中市",
+        "@level": "4",
+        "@parentCode": "34000"
+       }
+      ]
+     },
+     {
+      "@id": "time",
+      "@name": "時間軸（年次）",
+      "CLASS": {
+       "@code": "2020000000",
+       "@name": "2020年",
+       "@level": "1"
+      }
+     }
+    ]
+   }
+  }
+ }
+}
